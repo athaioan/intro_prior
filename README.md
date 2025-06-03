@@ -5,11 +5,6 @@
   <img src="assets/intro_prior.jpg" alt="Model Architecture" width="1000"/>
 </figure>
 
-
-## Acknowledgments
-
-This implementation is inspired by the work of Smith et al. (2021). Please consider citing their paper if you use this code.
-
 ## Credits
 This implementation builds upon these works:
 
