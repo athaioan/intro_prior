@@ -20,7 +20,7 @@ Variational Autoencoders (VAEs) are a popular framework for unsupervised learnin
 The experiments are organized into the following directories:
 
 - `2D/` – Experiments on synthetic 2D density estimation benchmarks.
-- `image/` – Experiments on image datasets.
+- `images/` – Experiments on image datasets.
 
 ## Installation
 
