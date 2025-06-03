@@ -27,7 +27,7 @@ The experiments are organized into the following directories:
 To set up the Conda environment required to run the experiments:
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate introspective-vae
 ```
 
