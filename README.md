@@ -28,7 +28,7 @@ To set up the Conda environment required to run the experiments:
 
 ```bash
 conda env create -f environment.yaml
-conda activate introspective-vae
+conda activate intro_prior
 ```
 
 
