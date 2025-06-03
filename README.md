@@ -15,6 +15,23 @@ Variational Autoencoders (VAEs) are a popular framework for unsupervised learnin
 
 [📄 View Paper on OpenReview](https://openreview.net/forum?id=u4YDVFodYX)
 
+## Repository Structure
+
+The experiments are organized into the following directories:
+
+- `2D/` – Experiments on synthetic 2D density estimation benchmarks.
+- `image/` – Experiments on real image datasets, including (F)-MNIST and CIFAR-10.
+
+## Installation
+
+To set up the Conda environment required to run the experiments:
+
+```bash
+conda env create -f environment.yml
+conda activate introspective-vae
+```
+
+
 ## Credits
 This implementation builds upon these works:
 
