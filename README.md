@@ -1,4 +1,4 @@
-# Prior Learning in Introspective VAEs [TMLR 2025]
+# [TMLR 2025] Prior Learning in Introspective VAEs 
 
 **Authors**: [Ioannis Athanasiadis](https://scholar.google.com/citations?user=RCAtJgUAAAAJ), [Fredrik Lindsten](https://scholar.google.com/citations?user=GylfPngAAAAJ), [Michael Felsberg](https://scholar.google.com/citations?user=lkWfR08AAAAJ)
 
