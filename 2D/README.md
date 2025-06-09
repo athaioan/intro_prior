@@ -27,6 +27,5 @@ This guide outlines the steps to replicate the ablation study results presented 
 - `models` - Defines the models.
 - `dataset` - Dataloading.
 - `train_scripts` - The python scripts used to train the VAEs.
-- `eval_scripts` - The python scripts used to evaluate the VAEs.
 - `utils` - The utilities used in the codebase.
 - `metrics` - The function used for evaluating the metrics.
